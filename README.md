@@ -2,7 +2,7 @@
 
 MTP2MWM converts files from MiGTracker Pro (MTP) format to Moonblaster for Moonsound Wave (MWM) format.
 
-Moonblaster for Moonsound Wave is a tracker program for the MSX2 computer with Moonsound (OPl4) software synthesizer cartridge
+Moonblaster for Moonsound Wave is a tracker program for the MSX2 computer with a Moonsound (OPL4) synthesizer cartridge
 
 MiGTracker Pro: https://github.com/Randam/MiGTracker-Pro
 MBWave: https://www.teambomba.net/mbwave.html
